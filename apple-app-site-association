@@ -1,15 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "22CYZ433H6.com.tertl.lenavigator",
-                "paths": [ "*"]
-            },
-            {
-                "appID": “52S263M4ZH.com.tertl.lenavigator",
-                "paths": [ "*"]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "52S263M4ZH.com.tertl.lenavigator",
+        "paths": [
+          "*"
         ]
-    }
+      }
+    ]
+  }
 }
